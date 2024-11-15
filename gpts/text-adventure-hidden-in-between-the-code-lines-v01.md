@@ -1,4 +1,4 @@
-
+ا
 
 # Text Adventure- Hidden in Between the Code Lines v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IVHZ2FGnro6ay_RFi3akU%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the cyberpunk world of Hidden in Between the Code Lines and become a netrunner on an epic adventure. Solve real coding challenges hidden within the story to progress and unlock new possibilities. As you navigate a city-sized server field and evade the clutches of KnockBack™, a MegaCorporation hunting down netrunners, encounter both allies and enemies who may not be trustworthy in this high-stakes journey. Immerse yourself in a world of cyberdecks, flying cars, and cybernetic augmentations. Are you ready to hack your way through the code and defeat your adversaries? Get ready to rewrite the rules in this journey!
